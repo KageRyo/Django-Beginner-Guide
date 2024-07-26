@@ -1,0 +1,3 @@
+[submodule "TokyoVeg"]
+	path = TokyoVeg
+	url = https://github.com/KageRyo/TokyoVeg.git
